@@ -1,0 +1,26 @@
+body{
+    margin: 5% 8% 0% 8%;
+}
+.top-title{
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yeseva One', cursive;
+    font-size: 2.7em;
+    line-height: 40px;
+    border-left: 4px solid orangered;
+    margin-top: 95px;
+}
+.first-section{
+    display: flex;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 18%;
+}
+.half-width{
+    width: 100%;
+}
+.text-part-color{
+    color:#FFAD5A;
+    margin-left: 2%;
+}
